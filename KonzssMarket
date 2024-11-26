@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <metacharset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Sebuah DakrWeb yang aman dan terpecaya">
+    <meta name="keywords" content="darkweb ternyaman dan teraman dan tercepat">
+    <meta name="author" content="Pecinta Mutan Tier SS">
+    <title>KOnzzMarket</title>
+    <link rel="stylesheet" href="stylesheet.css">
+    <link rel="icon" href="favicon.ico" type="image/icon">
+
+</head>
+<body>
+    <link rel="stylesheet" href="stylesheet.css">
+    <header>
+        <h1 style="color:aliceblue;">Daftar Isi</h1>
+        <nav>
+        <link rel="stylesheet" href="stylesheet.css">
+            <ul>
+                <li><a href="Beranda">beranda</a>
+                <li><a href="tentang">tentang</a>
+                <li><a href="kontak">kontak</a>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <link rel="stylesheet" href="stylesheet.css">
+        <section id="beranda">
+        <link rel="stylesheet" href="stylesheet.css">
+            <h2>Beranda</h2>
+            <p>Selamat datang di Dark Web Ternama yang ada di kalimantan selatan </p>
+        </section>
+
+        <section id="tentang">
+            <h2>Tentang</h2>
+            <p>KonzzsMarket adalah salah satu pasar digital anonim terkemuka di dark web. Situs ini menyediakan platform aman dan terenkripsi untuk pembelian dan penjualan berbagai produk dan layanan. Dengan sistem escrow yang canggih dan ulasan penjual yang transparan, ShadowMarket memastikan pengalaman pengguna yang nyaman sambil mempertahankan anonimitas penuh.
+
+                Produk Unggulan:
+                
+                Obat-obatan: Narkotika, psikedelik, dan barang medis khusus.
+
+                Dokumen: Paspor palsu, SIM, dan identitas palsu.
+
+                Teknologi: Alat peretasan, malware, dan perangkat lunak pengintai.
+
+                Barang Eksklusif: Koleksi langka, karya seni kontroversial, dan layanan custom.
+
+               
+                Keamanan:
+                
+                Semua transaksi dilakukan melalui cryptocurrency (Bitcoin dan Monero) untuk melindungi privasi.
+
+                Situs ini menggunakan enkripsi end-to-end untuk melindungi data pengguna dari pengintaian.
+
+                Sistem escrow memastikan bahwa dana hanya dilepaskan jika pembeli puas dengan produk atau layanan.
+
+                Peringatan:
+                ShadowMarket tidak bertanggung jawab atas penggunaan barang atau layanan yang diperoleh melalui platform ini. Pengguna bertanggung jawab untuk mematuhi hukum setempat dan memahami risikonya..</p>
+        </section>
+
+        <section id="kontak">
+            <h2>Kontak</h2>
+            <p>Hubungi kami melalui email<a href="antosetiawan986@gmail.com"></a>.</p>
+        </section>
+    </main>
+
+
+    <footer>
+        <p>&copy; 2024 Hermawanto stwn. Semua hak dilindungi</p>
+    </footer>
+
+    <scpirt src="script.js"></scpirt>
+</body>
+</html>
